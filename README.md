@@ -39,7 +39,7 @@ This project demonstrates how Microsoft Excel can be leveraged as a Business Int
 
 ## 👥 Customer Performance Report
 
-> *(Insert Screenshot Here)*
+📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
 
 Analyzes customer-wise sales performance across multiple fiscal years, helping identify high-performing customers, evaluate revenue contribution, and monitor year-over-year growth.
 
@@ -47,7 +47,7 @@ Analyzes customer-wise sales performance across multiple fiscal years, helping i
 
 ## 🌍 Market Performance vs Target
 
-> *(Insert Screenshot Here)*
+📄 **[View Market Performance vs Target Report (PDF)](Reports/Market%20Performance%20vs%20Target.pdf)**
 
 Compares actual sales against predefined targets across various markets, enabling users to identify performance gaps and evaluate target achievement.
 
@@ -55,7 +55,7 @@ Compares actual sales against predefined targets across various markets, enablin
 
 ## 💰 Profit & Loss Statement by Fiscal Year
 
-> *(Insert Screenshot Here)*
+📄 **[View P&L Statement by Fiscal Year (PDF)](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
 
 Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold (COGS), Gross Margin, Gross Margin %, and Year-over-Year growth.
 
@@ -63,7 +63,7 @@ Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold 
 
 ## 📅 Profit & Loss Statement by Month
 
-> *(Insert Screenshot Here)*
+📄 **[View P&L Statement by Month (PDF)](Reports/P%26L%20Statement%20by%20Months.pdf)**
 
 Tracks monthly and quarterly financial performance to identify seasonal trends, revenue fluctuations, and profitability patterns.
 
@@ -71,7 +71,7 @@ Tracks monthly and quarterly financial performance to identify seasonal trends, 
 
 ## 🌎 Profit & Loss Statement by Market
 
-> *(Insert Screenshot Here)*
+📄 **[View P&L Statement by Market (PDF)](Reports/P%26L%20Statement%20by%20Markets.pdf)**
 
 Compares profitability across different markets using Net Sales, Gross Margin, and Gross Margin %, supporting market-level performance analysis.
 
