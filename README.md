@@ -40,9 +40,11 @@ This project demonstrates how Microsoft Excel can be leveraged as a Business Int
 ## 👥 Customer Performance Report
 📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
 
-<img src="Images/customer-performance-report.png"
-     alt="Customer Performance Report"
-     width="100%">
+<p align="center">
+  <img src="Images/customer-performance-report.png"
+       alt="Customer Performance Report"
+       width="850">
+</p>
 
 Analyzes customer-wise sales performance across multiple fiscal years, helping identify high-performing customers, evaluate revenue contribution, and monitor year-over-year growth.
 
@@ -52,7 +54,9 @@ Analyzes customer-wise sales performance across multiple fiscal years, helping i
 📄 **[View Market Performance vs Target Report (PDF)](Reports/Market%20Performance%20vs%20Target.pdf)**
 
 <p align="center">
-  <img src="Images/market-performance-vs-target.png" alt="Market Performance vs Target" width="900">
+  <img src="Images/market-performance-vs-target.png"
+       alt="Market Performance vs Target"
+       width="850">
 </p>
 
 Compares actual sales against predefined targets across various markets, enabling users to identify performance gaps and evaluate target achievement.
@@ -63,7 +67,9 @@ Compares actual sales against predefined targets across various markets, enablin
 📄 **[View P&L Statement by Fiscal Year (PDF)](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
 
 <p align="center">
-  <img src="Images/pnl-fiscal-year.png" alt="P&L Statement by Fiscal Year" width="900">
+  <img src="Images/pnl-fiscal-year.png"
+       alt="P&L Statement by Fiscal Year"
+       width="850">
 </p>
 
 Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold (COGS), Gross Margin, Gross Margin %, and Year-over-Year growth.
@@ -74,7 +80,9 @@ Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold 
 📄 **[View P&L Statement by Month (PDF)](Reports/P%26L%20Statement%20by%20Months.pdf)**
 
 <p align="center">
-  <img src="Images/pnl-monthly.png" alt="P&L Statement by Month" width="900">
+  <img src="Images/pnl-monthly.png"
+       alt="P&L Statement by Month"
+       width="850">
 </p>
 
 Tracks monthly and quarterly financial performance to identify seasonal trends, revenue fluctuations, and profitability patterns.
@@ -85,7 +93,9 @@ Tracks monthly and quarterly financial performance to identify seasonal trends, 
 📄 **[View P&L Statement by Market (PDF)](Reports/P%26L%20Statement%20by%20Markets.pdf)**
 
 <p align="center">
-  <img src="Images/pnl-market.png" alt="P&L Statement by Market" width="900">
+  <img src="Images/pnl-market.png"
+       alt="P&L Statement by Market"
+       width="850">
 </p>
 
 Compares profitability across different markets using Net Sales, Gross Margin, and Gross Margin %, supporting market-level performance analysis.
